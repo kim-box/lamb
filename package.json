@@ -1,0 +1,19 @@
+{
+  "name": "dying-message",
+  "version": "1.0.0",
+  "description": "show the words that you wanted to search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim-box/dying-message.git"
+  },
+  "author": "kim-box <answn4456@naver.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim-box/dying-message/issues"
+  },
+  "homepage": "https://github.com/kim-box/dying-message#readme"
+}
