@@ -1,5 +1,6 @@
 {
   "name": "dying-message",
   "version": "1.0",
-  "manifest_version": 2
+  "description": "show the words that you wanted to search",
+  "manifest_version": 3
 }
