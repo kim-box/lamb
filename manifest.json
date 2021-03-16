@@ -2,5 +2,12 @@
   "name": "dying-message",
   "version": "1.0",
   "description": "show the words that you wanted to search",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
 }
