@@ -1,7 +1,7 @@
 {
-  "name": "lamb",
+  "name": "copy-nomadcoder",
   "version": "1.0",
-  "description": "show the words that you wanted to search",
+  "description": "노마드코더에서 봤던 메모 기능 베껴 옴",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
