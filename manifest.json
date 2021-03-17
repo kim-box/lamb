@@ -1,12 +1,12 @@
 {
-  "name": "imitate example",
-  "manifest_version": 3,
-  "description": "익숙해지려고 따라함",
+  "name": "copy-nomadcoder",
   "version": "1.0",
+  "description": "노마드코더에서 봤던 메모 기능 베껴 옴",
+  "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["storage"],
   "action": {
     "default_popup": "popup.html"
   }
